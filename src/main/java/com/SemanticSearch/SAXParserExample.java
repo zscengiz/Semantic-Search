@@ -15,7 +15,6 @@ import org.xml.sax.helpers.DefaultHandler;
 public class SAXParserExample {
     public SAXParserExample() {
     }
-
     public static void main(String[] args) {
         String filePath = "/Users/zcengiz/IdeaProjects/Semantic-Search/src/main/resources/trwiki-latest-pages-articles.xml";
 
