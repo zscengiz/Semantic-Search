@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mediawiki>
+    <page>
+        <title>Örnek 1</title>
+        <h1>SELAMM</h1>
+        <text>Bu bir örnek içeriğidir. </text>
+    </page>
+    <page>
+        <title>Örnek 2</title>
+        <text>Java programlama dili oldukça büyüktür ve birçok uygulama geliştirmek mümkündür.</text>
+    </page>
+    <page>
+        <title>Örnek 3</title>
+        <text>Bilim, insanlık için çok önemlidir. Hoş bir keşif yolculuğudur.</text>
+    </page>
+</mediawiki>
