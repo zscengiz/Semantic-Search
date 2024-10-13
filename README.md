@@ -1,6 +1,6 @@
 # Semantic Search Engine with Wikipedia TR Dataset *(Test Project)*
 
-> **Disclaimer:** This project is for testing purposes only and is not intended for production use.
+> **Disclaimer:** This project is for testing purposes only.
 
 This project involves building a semantic search engine that retrieves synonyms of user-inputted words based on a corpus derived from Turkish Wikipedia articles. The system uses **Elasticsearch** for indexing and searching, and natural language processing techniques to generate a custom language model trained on Wikipedia data. The project aims to implement a prototype where users can input a word, and the system will return its synonyms.
 
