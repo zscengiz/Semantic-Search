@@ -6,9 +6,8 @@ This project involves building a semantic search engine that retrieves synonyms 
 
 ## Table of Contents
 - [Overview](#overview)
-- [Requirements](#requirements)
-- [Installation](#installation)
 - [Dataset](#dataset)
+- [Steps](#steps)
 
 ## Overview
 This project is developed by a team of three and is divided into the following major parts:
